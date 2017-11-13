@@ -1,0 +1,33 @@
+Nav ul {
+	Margin:0;
+	padding:0;
+}
+
+Nav ul li {
+	list-style-type:none;
+	float:left;
+	display:block;
+	width:150px;
+	height:60px;
+	text-align:center;
+	line-height:55px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:17px;	
+}
+
+Nav ul li a {
+	text-decoration:none;
+	color:WHITE;
+}
+
+Nav ul li:hover {
+	background-color:rgb(242, 242,242);
+}
+
+Nav ul li:hover a {
+	display:block;
+	color:#000;
+}
+
+
+
